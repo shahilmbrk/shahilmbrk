@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Shahil Mubarak 👋
 
-<!--
-**shahilmbrk/shahilmbrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Engineering Graduate from Kerala.
 
-Here are some ideas to get you started:
+Currently learning:
+- Python
+- Linux
+- AWS
+- DevOps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python
+- Flask
+- HTML/CSS
+- MySQL
+- Git & GitHub
+- Linux
+
+## Projects
+
+### ASD Detection System
+Multi-modal autism detection system using MRI, Audio, Video and Questionnaire data.
+
+Tech:
+Python, CNN, MFCC, Decision Tree
+
+### Project Management System
+Role-based Flask web application for project approval and tracking.
+
+Tech:
+Flask, MySQL, HTML, CSS
+
+## Currently Working On
+- Python mastery
+- Linux fundamentals
+- AWS Cloud
+- DevOps roadmap
+
+## Connect With Me
+LinkedIn: <[your-linkedin](linkedin.com/in/shahilmubarak/)>
+Portfolio: <[your-portfolio-link](shahilmbrk.github.io/portfolio/)>
