@@ -108,7 +108,7 @@ Currently deepening expertise in AWS, Docker, and DevOps — with a goal of engi
 
 **Languages & Frameworks**
 
-<img src="https://skillicons.dev/icons?i=python,flask,html,css,bash&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=python,c,flask,html,css&theme=dark" alt="Languages" />
 
 <br/>
 
