@@ -112,11 +112,6 @@ Currently deepening expertise in AWS, Docker, and DevOps — with a goal of engi
 
 <br/>
 
-**Cloud & Infrastructure**
-
-<img src="https://skillicons.dev/icons?i=aws,linux,docker,ubuntu&theme=dark" alt="Cloud" />
-
-<br/>
 
 **Data & Databases**
 
@@ -126,7 +121,7 @@ Currently deepening expertise in AWS, Docker, and DevOps — with a goal of engi
 
 **Developer Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,ubuntu,windows&theme=dark" alt="Tools" />
 
 </div>
 
