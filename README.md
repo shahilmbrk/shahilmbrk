@@ -185,7 +185,7 @@ A role-based multi-user project tracking web app with separate portals for stude
 - Relational MySQL schema · Responsive UI
 
 <!-- 👇 Replace with your actual repo URL -->
-[![Repo](https://img.shields.io/badge/View_Repository-0d1117?style=flat-square&logo=github&logoColor=white&color=58A6FF)](https://github.com/shahilmbrk/project-management-system)
+[![Repo](https://img.shields.io/badge/View_Repository-0d1117?style=flat-square&logo=github&logoColor=white&color=58A6FF)](https://github.com/shahilmbrk/project-approval-system)
 
 </td>
 </tr>
