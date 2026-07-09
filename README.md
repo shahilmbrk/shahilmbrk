@@ -184,6 +184,63 @@ A role-based multi-user project tracking web app with separate portals for stude
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### Server Monitoring Dashboard
+> Python · Flask · psutil · JavaScript · HTML/CSS
+
+A real-time web dashboard that monitors CPU, memory, disk, network, uptime, and running processes using Python and psutil. System metrics are exposed through a Flask API and updated live without refreshing the page.
+
+**Highlights**
+- Real-time CPU, RAM, Disk & Network monitoring
+- Live Flask REST API with auto-refresh dashboard
+- Process monitoring, system information & health overview
+
+[![Repo](https://img.shields.io/badge/View_Repository-0d1117?style=flat-square&logo=github&logoColor=white&color=58A6FF)](https://github.com/shahilmbrk/Server-Monitoring-Dashboard)
+
+</td>
+
+<td width="50%" valign="top">
+
+### Life OS
+> JavaScript · Productivity
+
+A personal productivity and life management platform that combines task management, notes, goals, reminders, and productivity tools into a single modern web application.
+
+**Highlights**
+- Unified productivity dashboard
+- Task, goal and notes management
+- Responsive interface with modern UI
+
+[![Repo](https://img.shields.io/badge/View_Repository-0d1117?style=flat-square&logo=github&logoColor=white&color=58A6FF)](https://github.com/shahilmbrk/Life_OS)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Job Application Tracker
+> Python · Flask · SQLite · HTML/CSS
+
+A job search management application that helps users organize internship and job applications, track statuses, manage deadlines, and maintain application history through a clean web interface.
+
+**Highlights**
+- Track application status and progress
+- Organize companies, roles & deadlines
+- Simple responsive dashboard
+
+[![Repo](https://img.shields.io/badge/View_Repository-0d1117?style=flat-square&logo=github&logoColor=white&color=58A6FF)](https://github.com/shahilmbrk/Job-Application-Tracker)
+
+</td>
+
+<td width="50%" valign="top">
+
+<!-- Keep empty or add another project later -->
+
+</td>
+</tr>
 </table>
 
 ---
